@@ -132,3 +132,4 @@ and installed on the device manually to allow the SocketCAN to function.  Refer
 to the instructions provided at: 
 https://www.raspberrypi.org/documentation/linux/kernel/building.md
 
+Note: to test on a LiveCD, install git, make, gcc 
